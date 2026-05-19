@@ -76,6 +76,8 @@ int main() {
   <img src="https://streak-stats.demolab.com/?user=Tharusha-X-Dev&theme=tokyonight&hide_border=true" height="250"/>
 </div>
 
+---
+
 ## ⚡Fun Facts
 
 ```
