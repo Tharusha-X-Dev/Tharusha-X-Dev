@@ -73,28 +73,8 @@ int main() {
 ## 📊 GitHub Stats
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Tharusha-X-Dev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff&rank_icon=github" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Tharusha-X-Dev&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" width="48%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tharusha-X-Dev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff" width="40%" />
-
+  <img src="https://streak-stats.demolab.com/?user=Tharusha-X-Dev&theme=tokyonight&hide_border=true" height="250"/>
 </div>
-
----
-
-## 🚧 Current Projects
-
-| 🔭 Project | 📝 Description | 🛠️ Tech |
-|-----------|---------------|---------|
-| 🚀 Project Alpha | *Something awesome I'm cooking up* | C++, Python |
-| 📱 Mobile App | *A cool app built with Flutter* | Dart, Flutter |
-| 🌐 Web Project | *Backend magic in progress* | Node.js |
-
-> 💡 *More cool stuff coming soon... stay tuned!*
-
----
-
 ## ⚡ Fun Facts
 
 ```
@@ -121,9 +101,5 @@ int main() {
 **"First, solve the problem. Then, write the code." – John Johnson**
 
 <br/>
-
-![Visitor Count](https://komarev.com/ghpvc/?username=Tharusha-X-Dev&color=00D9FF&style=for-the-badge&label=PROFILE+VIEWS)
-
-</div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
