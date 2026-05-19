@@ -10,7 +10,7 @@
 
 ### SE Student turning caffeine into Code ☕💻
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Student+%F0%9F%8E%93+%7C+Code+Enthusiast+%F0%9F%94%A5;C%2B%2B+%7C+Python+%7C+Dart+%7C+Node.js;Building+cool+stuff+one+bug+at+a+time+%F0%9F%90%9B;Gamer+%F0%9F%8E%AE+%7C+Music+Lover+%F0%9F%8E%B5+%7C+Movie+Buff+%F0%9F%8E%AC" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Student+%F0%9F%8E%93+%7C+Code+Enthusiast+%F0%9F%94%A5;C%2B%2B+%7C+Python+%7C+Dart+%7C+JavaScript;Building+cool+stuff+one+bug+at+a+time+%F0%9F%90%9B;Gamer+%F0%9F%8E%AE+%7C+Music+Lover+%F0%9F%8E%B5+%7C+Movie+Buff+%F0%9F%8E%AC" alt="Typing SVG" />
 
 </div>
 
