@@ -28,7 +28,7 @@ public:
     string role     = "Software Engineering Student";
     string motto    = "Turning caffeine into code since day 1";
 
-    vector<string> languages = {"C++", "Python", "Dart", "Node.js"};
+    vector<string> languages = {"C++", "Python", "Dart", "JavaScript"};
     vector<string> currently = {"Learning DSA", "Building projects", "Breaking things & fixing them"};
     vector<string> hobbies   = {"🎮 Gaming", "🎵 Music", "🎬 Movies"};
 
@@ -56,7 +56,7 @@ int main() {
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-339933?style=for-the-badge&logo=JavaScript&logoColor=white)
 
 **Tools & Platforms:**
 
